@@ -6,11 +6,11 @@ client.on('ready', () => {
 
 
 client.on('ready', async() => {
-var server = "476460414629183490"; // ايدي السررفر
-var channel = "513323005481320459";//ايدي الروم
+var server = "515429310991958016"; // ايدي السررفر
+var channel = "516904167248494602";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo , ')
     },305);
 })
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env."NTE3MzQwMjgxNTU3ODc2NzU3.DuF0ig.bMS_o4QJTNVEyctgW08yfHTkoEs");
